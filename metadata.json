@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Comic Generator",
+  "description": "Create your own comic strips by providing character descriptions, a visual style, and panel-by-panel scene details. The app uses AI to generate each panel visually, bringing your story to life.",
+  "requestFramePermissions": []
+}
